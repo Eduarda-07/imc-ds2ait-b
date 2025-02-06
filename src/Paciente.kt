@@ -3,6 +3,8 @@ import kotlin.math.pow
 
 //Eduarda Silva
 
+//Giovanna
+
 class Paciente {
 
     var nome: String = ""
